@@ -1,5 +1,5 @@
 ![Purple Text](https://img.shields.io/badge/Hi%2C%20I'm%20Dela-purple?style=for-the-badge)
-![Front-End Developer & UI Designer](https://img.shields.io/badge/Front--End%20Developer%20%26%20UI%20Designer-8A2BE2?style=for-the-badge)
+![Front-End Developer & UI/UX-Focused](https://img.shields.io/badge/Front--End%20Developer%20%26%20UI%20Designer-8A2BE2?style=for-the-badge)
 
 
 
