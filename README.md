@@ -15,7 +15,7 @@ and a developer's mindset.*
 
 I'm a UK-based Frontend Developer working with **JavaScript, React and Next.js**.
 
-I came to code through **Architecture and UI/UX**, and that design background still shapes the way I build — from structure and spacing to the small details of an interface.
+I came to code through **Architecture and UI/UX**, which still shapes how I think about structure, design and the details of an interface.
 
 ---
 
@@ -47,30 +47,4 @@ I came to code through **Architecture and UI/UX**, and that design background st
 
 ### ✦ What I Like Building
 
-Interfaces that are **clean, responsive and easy to use** — with reusable components, real API data and the small interaction details that make an application feel finished.
-
-I enjoy working with **search, filtering, forms, CRUD functionality and REST APIs**, while keeping accessibility and responsive design in mind.
-
----
-
-### ✦ Selected Work
-
-#### ☕ SetCoffee
-A coffee e-commerce experience built with **Next.js**, featuring product search, filtering, sorting, favourites and cart functionality.
-
-#### ✓ Task Manager
-A **React** application with CRUD operations, task prioritisation, sorting, dark/light mode and local storage.
-
-#### ☁ Weather App
-A **React** weather application using external API data, city search and dynamic weather information.
-
-#### ✈ VoyaVista — In Progress
-A travel application where I'm working beyond the UI and exploring how a frontend communicates with a **Node.js / Express backend**.
-
----
-
-<div align="center">
-
-### Design the interface. Understand the logic. Build the experience.
-
-</div>
+Clean, responsive interfaces with **reusable components, REST APIs, forms, search, filtering and CRUD functionality** — with accessibility in mind.
